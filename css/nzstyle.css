@@ -1,0 +1,62 @@
+.name {
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: #009195 !important;
+}
+
+.person {
+  margin-top: 20px;
+  text-align: center !important;
+}
+
+.nztext {
+  font-size: 16px;
+  padding-bottom: 10px;
+  color: #39234f;
+  text-align: center !important;
+}
+
+.nzbody {
+    width: 100%;
+    height: 100%;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    font-weight: 300;
+    color: #009195;
+}
+
+.map {
+  padding-bottom: 20px;
+}
+
+.nztexthead {
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  color: #009195 !important;
+}
+
+.cursive {
+  font-size: 40px;
+  font-family: 'Cookie';
+  color: #4d0044;
+  padding-bottom: 10px;
+  margin: 0;
+  line-height: 1.1;
+}
+
+.btn.btn-success {
+    color: #39234f;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    border-color: #39234f #39234f #39234f;
+	border-radius: 20px;
+	border-width: 5px;
+}
+.btn.btn-success:hover {
+    color: #39234f;
+    background-color: #ffffff;
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    border-color: #39234f #39234f #39234f;
+}
